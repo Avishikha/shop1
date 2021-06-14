@@ -1,0 +1,121 @@
+{
+    "Header": {
+
+        "title": "Come and Explore",
+        "paragraph": "We care deeply about what we do and the impact we have with our clients and communities. It is personal to all of us."
+
+    },
+    "About": {
+        "paragraph": " Our company supports and enables academic institutions, secondary schools, and corporates to improve efficiency and deliver quality content by providing a fully automated system for assessing the authenticity and originality of any text. It was established in 2020 when two of the industry’s leading giants, Urkund and PlagScan, joined forces to improve academic integrity and promote original thinking. With more than three decades of combined knowledge and expertise, Ouriginal delivers cutting-edge technology that helps enhance the potential of students to think originally, saves time for teachers when evaluating assignments and assists corporates preserve their reputation.",
+        "Why": [
+            "Filled with the right people",
+            "The environment is always fun to work in",
+            "The community spirit always matters",
+            "Ambitious and willing to take risks"
+        
+        ],
+        "Why2": [
+            "People give you honest feedback",
+            "Good attitude and better ethics",
+            "Have a sense of commitment",
+            "Development of skills"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "Transportation facility",
+            "text": "They provide facilities like transportation, food, salon, gym, discounted tickets, personal concierge. They often have off-sites, also facilitate with parental leave to their employees."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Medical assistance",
+            "text": " Wehave medical services with the on-site physician, they do get leave travel allowance yearly once, they get life insurance cover."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Healthy working environment",
+            "text": "They even created the best work culture by a program called the wall of happiness, this is a platform where the employees can thank each other for the valuable work they have service to the company." },
+        {
+            "icon": "fa fa-language",
+            "name": "Personal leisure",
+            "text": "The interesting part is they are allowed to bring their dog to their workplace. The employers follow the quote that if we provide freedom to their employees they will amaze the company with their work" },
+        {
+            "icon": "fa fa-plane",
+            "name": " Family Security",
+            "text": "It takes care of their employee family with a brain resiliency program and employee assistance program. As per their performance, they do allow paid leaves. "    },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Financial and legal benefits",
+            "text": "Also, perks with legal and personal assistance and they conduct a diversity program to unite the employees and go forward with a vision. They also have a special leave benefit called bereavement leave."}
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "I know they are going to be honest with me. I am not going to get a subpar product; I know it is going to be good. That is the number one advantage of working with Exhibit Systems because I just do not want to be sold. I want to trust that what I am getting is going to be good",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "I’m never really worried that the booth isn’t going to get there on time. I can call over there and talk to anyone and get my questions answered in an instant. Ease of getting a hold of people. All communication with them is really easy. They do handle everything.",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text":  "Exhibit Systems is above and beyond their competitors and I have talked and met with the others. Some of them wouldn’t even follow up very well when I was just talking to them about them possibly providing services.",
+            "name": "John Doe"
+        }
+  
+    ],
+    
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Execution",
+            "text": "Satisfying all our customers needs a whole lot of attention along with execution. When you are building the company, you have to make sure that the people are helping one another, this help business become a successful and not a failure."
+    },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Diffused Ownership",
+            "text": "The ownership of a company is scattered over a large number of persons. According to the provisions of the Companies Act, a private company can have a maximum of fifty members. While, no upper limit is put on the maximum number of members in public companies. "
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Good attitude and better ethics",
+        
+            "text": "t is easy to make short term decisions that are unethical, they don’t realize that the integrity of the entire company is hurt and at the same time makes them unhappy and unsuccessful."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "The right amount of training",
+            "text": " For this they must have assignments on a regular basis where they can train people as well as operations of different sorts. If one assessment uncovers a weak area, businesses will have to address this and revise their methods once again."
+        }
+    ]
+}
